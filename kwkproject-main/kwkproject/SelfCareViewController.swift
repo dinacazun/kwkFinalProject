@@ -10,16 +10,16 @@ import UIKit
 class SelfCareViewController: UIViewController {
     @IBOutlet var selfCareLabel: UILabel!
     
-    @IBOutlet var drinkWater: UITextField!
+    @IBOutlet var drinkWater: UILabel!
     @IBOutlet var drinkWaterText: UITextView!
     
-    @IBOutlet var goOutside: UITextField!
+    @IBOutlet var goOutside: UILabel!
     @IBOutlet var goOutsideText: UITextView!
     
-    @IBOutlet var treatYourself: UITextField!
+    @IBOutlet var treatYourself: UILabel!
     @IBOutlet var treatYourselfText: UITextView!
     
-    @IBOutlet var screenTime: UITextField!
+    @IBOutlet var screenTime: UILabel!
     @IBOutlet var screenTimeText: UITextView!
     
     override func viewDidLoad() {

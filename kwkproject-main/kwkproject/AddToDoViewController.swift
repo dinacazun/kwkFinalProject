@@ -10,6 +10,8 @@ import CoreData
 
 class AddToDoViewController: UIViewController {
     
+    @IBOutlet var jotJournal: UILabel!
+    
     var previousToDoTVC = ToDoTableTableViewController()
     
     @IBOutlet weak var descriptionInput: UITextView!
