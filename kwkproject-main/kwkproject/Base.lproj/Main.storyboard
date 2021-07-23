@@ -407,7 +407,7 @@
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="pyc-Iy-Lnd"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.91264383494728207" green="0.89813912439065513" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
                     <navigationItem key="navigationItem" id="aUg-1H-GUv"/>
                     <connections>
